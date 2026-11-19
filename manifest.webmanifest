@@ -1,0 +1,20 @@
+{
+  "id": "pdf-tools-offline",
+  "name": "অফলাইন পিডিএফ মার্জার ও স্প্লিটার",
+  "short_name": "পিডিএফ টুলস",
+  "description": "ফাইল আপলোড ছাড়াই PDF জোড়া লাগান, আলাদা করুন ও পেজ সাজান",
+  "lang": "bn",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f8f7",
+  "theme_color": "#0f766e",
+  "categories": ["productivity", "utilities"],
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icons/maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable"},
+    {"src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
